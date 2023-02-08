@@ -52,10 +52,14 @@ nav:
     - About: About.md
     - Getting Started: Getting-Started.md
     - Authentication:
-          - User ID & Password: Authentication/UserID-Passwords.md
+          - Password: Authentication/Password.md
+          - User ID: Authentication/User-ID.md
           - MFA:
                 - Authentication/MFA/Authenticator-Management.md
-                - Authentication/MFA/Types.md
+                - Authentication/MFA/Authenticator-Types.md
+    - Authorization: Authorization.md
+    - Session: Session.md
+
 extra:
     analytics:
         provider: google
@@ -66,8 +70,7 @@ extra:
           link: https://twitter.com/vulnproof
         - icon: fontawesome/brands/youtube
           link: https://www.youtube.com/@vulnproof
-        - icon: fontawesome/brands/discord
-          link: https://discord.gg/H4Fqh8GJMn
-copyright: Copyright &copy; 2022 vulnproof
+
+copyright: Copyright &copy; 2023 vulnproof
 extra_css:
     - stylesheets/extra.css
