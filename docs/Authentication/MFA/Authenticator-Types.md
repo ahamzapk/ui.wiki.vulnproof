@@ -75,7 +75,7 @@ secondary channel
 
 !!! danger
 
-    OTP delivered through SMS or phone is not secure and is considered RESTRICTED in NIST <a href="https://pages.nist.gov/800-63-3/sp800-63b.html#-5133-authentication-using-the-public-switched-telephone-network" target="_blank">5.1.3.3</a>
+    OTP delivered through SMS or phone is not secure and is considered RESTRICTED in <a href="https://pages.nist.gov/800-63-3/sp800-63b.html#-5133-authentication-using-the-public-switched-telephone-network" target="_blank">NIST SP800-63B 5.1.3.3</a>
 
 | #️⃣  | ✅Items                                                                                                                                                                                                                                                                   |                                        ⚠️Severity                                         |                           🗡️Attacks                            |        🔗Sources        |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------: | :------------------------------------------------------------: | :---------------------: |
