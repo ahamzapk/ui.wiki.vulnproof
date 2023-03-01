@@ -133,6 +133,7 @@ secondary channel
 |  3  | **<ins>Verify</ins>:** Challenge nonce is unique for each authenticator </br> **<ins>Reason</ins>:** Ensures that more than one authenticator are not used for a single user account                                                                                                                                                                                       | <span style="background-color:#de3a3c; border-radius: 3px; padding: 2px 3px">High </span> |                           `Impersonation`                            | [SP800-63B](#SP800-63B) |
 |  4  | **<ins>Verify</ins>:** Approved cryptographic algorithms are used in the generation, seeding, and verification </br> **<ins>Reason</ins>:** Unauthorized algorithms can be circumvented                                                                                                                                                                                    | <span style="background-color:#de3a3c; border-radius: 3px; padding: 2px 3px">High </span> |                            `Bruteforcing`                            | [SP800-63B](#SP800-63B) |
 
+
 ## <ins>Something you are</ins>
 
 ### 🧬 Biometric
