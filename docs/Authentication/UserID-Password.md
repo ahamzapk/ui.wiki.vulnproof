@@ -161,7 +161,6 @@ Recovery/Backup code security checklist can be viewed [here](./MFA/Authenticator
 Microsoft:
 
 -   <a href="https://learn.microsoft.com/en-us/microsoft-365/admin/misc/password-policy-recommendations?view=o365-worldwide#requiring-the-use-of-multiple-character-sets" target="_blank" id="MS">Password policy recommendations for Microsoft 365 passwords</a>
-
 Open Web Application Security Project (OWASP):
 
 -   <a href="https://github.com/OWASP/ASVS/blob/master/4.0/en/0x11-V2-Authentication.md#v2-authentication" target="_blank" id="ASVS">[ASVS] Application Security Verification Standard - Authentication</a>
