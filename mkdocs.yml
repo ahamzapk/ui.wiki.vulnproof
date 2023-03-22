@@ -52,8 +52,7 @@ nav:
     - About: About.md
     - Getting Started: Getting-Started.md
     - Authentication:
-          - Password: Authentication/Password.md
-          - User ID: Authentication/User-ID.md
+          - User ID & Password: Authentication/UserID-Password.md
           - MFA:
                 - Authentication/MFA/Authenticator-Management.md
                 - Authentication/MFA/Authenticator-Types.md
