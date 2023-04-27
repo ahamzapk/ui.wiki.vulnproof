@@ -9,6 +9,7 @@ theme:
         - navigation.top
         - search.share
     icon:
+        repo: fontawesome/brands/github
         admonition:
             note: octicons/tag-16
             abstract: octicons/checklist-16
@@ -73,3 +74,6 @@ extra:
 copyright: Copyright &copy; 2023 vulnproof
 extra_css:
     - stylesheets/extra.css
+repo_url: https://github.com/amirxhamza/wiki.vulnproof
+repo_name: wiki.vulnproof
+edit_uri: ''
