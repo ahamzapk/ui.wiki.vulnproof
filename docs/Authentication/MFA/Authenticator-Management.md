@@ -3,6 +3,8 @@ hide:
     - footer
 ---
 
+# Authenticator Management
+
 Several events can occur over the lifecycle of a user’s authenticator that affects that authenticator’s use. These events include authenticator registration, verification, reset, and loss. This section describes the actions to be taken in response to those events.
 
 ## 🔨 Authenticator Registration
