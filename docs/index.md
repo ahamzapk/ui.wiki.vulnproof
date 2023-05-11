@@ -18,5 +18,8 @@ The mission of this wiki is to `accelerate the transition to secure software dev
 
 <div style="font-size:1.3rem;">🚀 Follow us</div>
 
-<a href="https://twitter.com/vulnproof" target="_blank"><img src="assets/twitter.png" width=47 style="margin:10px;"/></a>
 <a href="https://www.youtube.com/@vulnproof" target="_blank"><img src="assets/youtube.png" width=49 style="margin:10px;"/></a>
+<a href="https://www.tiktok.com/@vulnproof" target="_blank"><img src="assets/tik-tok.png" width=49 style="margin:10px;"/></a>
+<a href="https://www.instagram.com/vulnproof/" target="_blank"><img src="assets/instagram.png" width=49 style="margin:10px;"/></a>
+<a href="https://twitter.com/vulnproof" target="_blank"><img src="assets/twitter.png" width=47 style="margin:10px;"/></a>
+<a href="https://www.reddit.com/r/vulnproof/" target="_blank"><img src="assets/reddit.png" width=49 style="margin:10px;"/></a>
