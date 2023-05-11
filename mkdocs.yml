@@ -66,11 +66,16 @@ extra:
         property: G-17ZERL41HS
     generator: false
     social:
-        - icon: fontawesome/brands/twitter
-          link: https://twitter.com/vulnproof
         - icon: fontawesome/brands/youtube
           link: https://www.youtube.com/@vulnproof
-
+        - icon: fontawesome/brands/tiktok
+          link: https://www.tiktok.com/@vulnproof
+        - icon: fontawesome/brands/instagram
+          link: https://www.instagram.com/vulnproof/
+        - icon: fontawesome/brands/twitter
+          link: https://twitter.com/vulnproof
+        - icon: fontawesome/brands/reddit-alien
+          link: https://www.reddit.com/r/vulnproof/
 copyright: Copyright &copy; 2023 vulnproof
 extra_css:
     - stylesheets/extra.css
