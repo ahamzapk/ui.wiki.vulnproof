@@ -1,5 +1,5 @@
 site_name: vulnproof
-site_url: https://wiki.vulnproof.dev
+site_url: https://wiki.vulnproof.io
 theme:
     logo: assets/logo2.png
     favicon: images/favicon.ico
