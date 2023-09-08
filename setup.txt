@@ -1,0 +1,16 @@
+Installation:
+
+- Download Python3, pip and conda. 
+
+- Make sure all of them are in the $PATH
+e.g. > Export PATH=/User/amirhamza/miniconda 
+
+- Run the .sh file 
+> sh <file location>
+Download pip install mkdocs, medics-material, and medics-material-extensions
+
+- Run the app
+> mkdocs serve
+
+
+
