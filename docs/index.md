@@ -4,7 +4,7 @@ hide:
     - toc
 ---
 
-![Image title](assets/logo.png){width=284 loading=lazy }
+![Image title](assets/logo.png){width=260 loading=lazy}
 
 <div style="font-size:1.3rem;">🎯 Mission Statement</div>
 
@@ -15,11 +15,3 @@ The mission of this wiki is to `accelerate the transition to secure software dev
 -   Making secure development practices free and open for everyone to use and conveying them in such a way that is easy to understand and implement
 -   Creating awareness among software developers, so they take ownership of security
 -   Developing a community that supports one another to achieve this mission
-
-<div style="font-size:1.3rem;">🚀 Follow us</div>
-
-<a href="https://www.youtube.com/@vulnproof" target="_blank"><img src="assets/youtube.png" width=49 style="margin:10px;"/></a>
-<a href="https://www.tiktok.com/@vulnproof" target="_blank"><img src="assets/tik-tok.png" width=49 style="margin:10px;"/></a>
-<a href="https://www.instagram.com/vulnproof/" target="_blank"><img src="assets/instagram.png" width=49 style="margin:10px;"/></a>
-<a href="https://twitter.com/vulnproof" target="_blank"><img src="assets/twitter.png" width=47 style="margin:10px;"/></a>
-<a href="https://www.reddit.com/r/vulnproof/" target="_blank"><img src="assets/reddit.png" width=49 style="margin:10px;"/></a>
