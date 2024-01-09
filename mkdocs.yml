@@ -8,7 +8,11 @@ theme:
         - toc.follow
         - navigation.top
         - search.share
+        - navigation.tabs
+        - navigation.tabs.sticky
+        - navigation.indexes
     icon:
+        # logo: fontawesome/solid/infinity
         repo: fontawesome/brands/github
         admonition:
             note: octicons/tag-16
@@ -29,6 +33,10 @@ theme:
         scheme: slate
     font:
         text: Maven Pro
+plugins:
+    - blog:
+          archive: false
+          categories: false
 markdown_extensions:
     - attr_list
     - md_in_html
@@ -49,36 +57,36 @@ markdown_extensions:
           emoji_index: !!python/name:materialx.emoji.twemoji
           emoji_generator: !!python/name:materialx.emoji.to_svg
 nav:
-    - Welcome: index.md
-    - About: About.md
-    - Getting Started: Getting-Started.md
-    - Authentication:
-          - User ID & Password: Authentication/UserID-Password.md
-          - MFA:
-                - Authentication/MFA/Authenticator-Management.md
-                - Authentication/MFA/Authenticator-Types.md
-    - Authorization: Authorization.md
-    - Session: Session.md
-
+    - Home:
+          - Welcome: index.md
+          - About: About.md
+          - Getting Started: Getting-Started.md
+    - Wiki:
+          - Table of Contents: Wiki/Contents.md
+          - Identity and Access Management:
+                - User ID & Password: Wiki/IAM/UserID-Password.md
+                - Authorization: Wiki/IAM/Authorization.md
+                - Session: Wiki/IAM/Session.md
+                - MFA:
+                      - Wiki/IAM/MFA/Authenticator-Management.md
+                      - Wiki/IAM/MFA/Authenticator-Types.md
+          - API:
+                - REST: Wiki/API/REST.md
+                - GraphQL: Wiki/API/GraphQL.md
+                - SOAP: Wiki/API/SOAP.md
+                - Webhooks: Wiki/API/Webhooks.md
+                - WebSockets: Wiki/API/WebSockets.md
+          - Vulnerabilities:
+                - Wiki/Vulnerabilities/index.md
+    - Blog: blog/index.md
 extra:
     analytics:
         provider: google
         property: G-17ZERL41HS
     generator: false
-    social:
-        - icon: fontawesome/brands/youtube
-          link: https://www.youtube.com/@vulnproof
-        - icon: fontawesome/brands/tiktok
-          link: https://www.tiktok.com/@vulnproof
-        - icon: fontawesome/brands/instagram
-          link: https://www.instagram.com/vulnproof/
-        - icon: fontawesome/brands/twitter
-          link: https://twitter.com/vulnproof
-        - icon: fontawesome/brands/reddit-alien
-          link: https://www.reddit.com/r/vulnproof/
-copyright: Copyright &copy; 2023 vulnproof
+copyright: Copyright &copy; <script>document.write(new Date().getFullYear())</script> vulnproof
 extra_css:
     - stylesheets/extra.css
-repo_url: https://github.com/amirxhamza/wiki.vulnproof
+repo_url: https://github.com/amirhamzavp/wiki.vulnproof
 repo_name: wiki.vulnproof
 edit_uri: ''
