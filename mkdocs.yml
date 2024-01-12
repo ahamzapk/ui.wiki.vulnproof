@@ -34,9 +34,9 @@ theme:
     font:
         text: Maven Pro
 plugins:
-    - blog:
-          archive: false
-          categories: false
+    # - blog:
+    #       archive: false
+    #       categories: false
 markdown_extensions:
     - attr_list
     - md_in_html
@@ -78,7 +78,7 @@ nav:
                 - WebSockets: Wiki/API/WebSockets.md
           - Vulnerabilities:
                 - Wiki/Vulnerabilities/index.md
-    - Blog: blog/index.md
+    # - Blog: blog/index.md
 extra:
     analytics:
         provider: google
