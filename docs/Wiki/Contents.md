@@ -1,6 +1,7 @@
 ---
 hide:
     - footer
+    - toc
 ---
 
 ## Identity and Access Management
@@ -20,7 +21,6 @@ hide:
 -   [Webhooks](./API/Webhooks.md)
 -   [WebSockets](./API/WebSockets.md)
 
-
 ## Vulnerabilities
 
-- [Vulnerabilities](./Vulnerabilities/index.md)
+-   [Vulnerabilities](./Vulnerabilities/index.md)
