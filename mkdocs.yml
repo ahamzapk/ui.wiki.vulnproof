@@ -12,7 +12,6 @@ theme:
         - navigation.tabs.sticky
         - navigation.indexes
     icon:
-        # logo: fontawesome/solid/infinity
         repo: fontawesome/brands/github
         admonition:
             note: octicons/tag-16
@@ -63,19 +62,21 @@ nav:
           - Getting Started: Getting-Started.md
     - Wiki:
           - Table of Contents: Wiki/Contents.md
-          - Identity and Access Management:
-                - User ID & Password: Wiki/IAM/UserID-Password.md
-                - Authorization: Wiki/IAM/Authorization.md
-                - Session: Wiki/IAM/Session.md
+          - Access Control:
+                - User ID & Password: Wiki/Access-Control/UserID-Password.md
+                - Authorization: Wiki/Access-Control/Authorization.md
+                - Session: Wiki/Access-Control/Session.md
                 - MFA:
-                      - Wiki/IAM/MFA/Authenticator-Management.md
-                      - Wiki/IAM/MFA/Authenticator-Types.md
+                      - Wiki/Access-Control/MFA/Authenticator-Management.md
+                      - Wiki/Access-Control/MFA/Authenticator-Types.md
           - API:
                 - REST: Wiki/API/REST.md
                 - GraphQL: Wiki/API/GraphQL.md
                 - SOAP: Wiki/API/SOAP.md
                 - Webhooks: Wiki/API/Webhooks.md
                 - WebSockets: Wiki/API/WebSockets.md
+          - Software:
+                - GitHub: Wiki/Software/GitHub.md
           - Vulnerabilities:
                 - Wiki/Vulnerabilities/index.md
     # - Blog: blog/index.md

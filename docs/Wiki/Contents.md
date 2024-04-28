@@ -4,14 +4,14 @@ hide:
     - toc
 ---
 
-## Identity and Access Management
+## Access Control
 
 -   Multi Factor Authentication:
-    -   [Authenticator Management](./IAM/MFA/Authenticator-Management.md)
-    -   [Authenticator Types](./IAM/MFA/Authenticator-Types.md)
--   [User ID and Password Authentication](./IAM/UserID-Password.md)
--   [Authorization](./IAM/Authorization.md)
--   [Session Management](./IAM/Session.md)
+    -   [Authenticator Management](./Access-Control/MFA/Authenticator-Management.md)
+    -   [Authenticator Types](./Access-Control/MFA/Authenticator-Types.md)
+-   [User ID and Password Authentication](./Access-Control/UserID-Password.md)
+-   [Authorization](./Access-Control/Authorization.md)
+-   [Session Management](./Access-Control/Session.md)
 
 ## API
 
@@ -20,6 +20,10 @@ hide:
 -   [SOAP](./API/SOAP.md)
 -   [Webhooks](./API/Webhooks.md)
 -   [WebSockets](./API/WebSockets.md)
+
+## Software
+
+-   [GitHub](./Software/GitHub.md)
 
 ## Vulnerabilities
 
